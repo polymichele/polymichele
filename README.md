@@ -25,13 +25,3 @@ Desenvolvedora em evolução, apaixonada por transformar ideias em experiências
 | [Finanças Fácil](https://github.com/polymichele/financas-facil) | Controle de receitas, despesas e saldo | HTML, CSS e JavaScript |
 | [Foco Kanban](https://github.com/polymichele/foco-kanban) | Quadro visual para organizar tarefas | HTML, CSS e JavaScript |
 | [Tempo Zen](https://github.com/polymichele/tempo-zen) | Pomodoro para manter foco e equilíbrio | HTML, CSS e JavaScript |
-
-## Estatísticas
-
-![Estatísticas de Poly](https://github-readme-stats.vercel.app/api?username=polymichele&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=polymichele&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
----
-
-> “Comece onde você está, use o que você tem e faça o que você pode.”
-
