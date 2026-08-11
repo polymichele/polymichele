@@ -45,26 +45,6 @@ Participação no desenvolvimento do **CONSOLE**, plataforma corporativa criada 
 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
 Senac · conclusão prevista para jul/2027
 
-## Projetos pessoais em destaque
-
-### ✅ [TaskFlow](https://github.com/polymichele/taskflow)
-
-Organizador de tarefas com filtros, persistência local e layout responsivo.
-
-`HTML` `CSS` `JavaScript` `LocalStorage`
-
-### 💰 [Finanças Fácil](https://github.com/polymichele/financas-facil)
-
-Controle financeiro pessoal com lançamentos, saldo e resumo de entradas e saídas.
-
-`HTML` `CSS` `JavaScript` `Web Storage`
-
-### 🌤️ [Clima Agora](https://github.com/polymichele/clima-agora)
-
-Previsão meteorológica por cidade, com condições atuais e os próximos cinco dias.
-
-`HTML` `CSS` `JavaScript` `Open-Meteo API`
-
 ## Tecnologias e ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
