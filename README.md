@@ -99,4 +99,4 @@ Comunicação · Organização · Aprendizado rápido · Trabalho em equipe · P
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Polyanna_Nascimento-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polyanna-nascimento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Polyanna_Nascimento-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polyanna-nascimento-8723a0211)
