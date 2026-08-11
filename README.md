@@ -6,7 +6,7 @@ Busco desenvolver minhas habilidades técnicas e contribuir com soluções na á
 
 ## Experiência profissional
 
-### Versuo Soluções Financeiras - Estagiária em Desenvolvimento de Sistemas
+### Versuo Soluções Financeiras - Estagiária em Desenvolvimento de Software
 
 `2 jul/2026 - atual`
 
