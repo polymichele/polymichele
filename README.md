@@ -1,4 +1,4 @@
-# Olá, eu sou a Poly Michele! 👋
+# Olá, eu sou a Polyanna Michele! 👋
 
 Desenvolvedora em evolução, apaixonada por transformar ideias em experiências digitais úteis, bonitas e acessíveis.
 
